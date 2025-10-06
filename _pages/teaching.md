@@ -2,11 +2,32 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**BST 232: Methods 1 (2022-2025)**
 
-Organize your courses by years, topics, or universities, however you like!
+A Biostatistics doctoral core course covering the foundations of (generalized) linear models.
+
+&nbsp;
+&nbsp;
+
+**BST 263: Statistical Learning (2021-2022)**
+
+A course on statistical and machine learning methods, intended for Biostatistics master's students
+
+&nbsp;
+&nbsp;
+
+**Other teaching**
+
+Below you can find recorded lectures I've given on various climate and health-related topics for the educational program of the <a href='https://www.climatehealthcafe.org/'>BU/Harvard Climate and Health Research Coordinating Center</a>:
+
+<a href='https://www.youtube.com/watch?v=nTYlmcm_PIU'>Introduction to Processing and Visualizing Spatial Data with R</a>
+
+<a href='https://www.youtube.com/watch?v=3r_OiCYGI-I&t=1s'>Study Design and Statistical Methods for Climate & Health Research</a>
+
+<a href='https://www.youtube.com/watch?v=6La8pxgKT3Q'>Wrangling and Processing Historic Weather Data for Climate and Health Studies</a>
+
