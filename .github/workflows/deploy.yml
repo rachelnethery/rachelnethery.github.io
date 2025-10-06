@@ -71,13 +71,13 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
-      - name: Disable Bundler frozen
-        run: bundle config set frozen false
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
+      - name: Disable Bundler frozen
+        run: bundle config set frozen false
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
