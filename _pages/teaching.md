@@ -30,4 +30,3 @@ Below you can find recorded lectures I've given on various climate and health-re
 <a href='https://www.youtube.com/watch?v=3r_OiCYGI-I&t=1s'>Study Design and Statistical Methods for Climate & Health Research</a>
 
 <a href='https://www.youtube.com/watch?v=6La8pxgKT3Q'>Wrangling and Processing Historic Weather Data for Climate and Health Studies</a>
-

@@ -25,13 +25,13 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-The aim of my team's research is to develop statistical methods that enable rigorous and impactful uses of data to answer environmental and population health questions. In particular, our recent work centers around 
+The aim of my team's research is to develop statistical methods that enable rigorous and impactful uses of data to answer environmental and population health questions. In particular, our recent work centers around
 
-  1. Estimation of the health impacts of environmental contaminant exposures and environmental policies 
-  2. Studying the impacts of extreme weather exposures and natural disasters on health and forecasting the health burdens of future extreme climate events 
-  3. Identifying communities most vulnerable to the health impacts of environmental and climate exposures and determining what features drive vulnerability 
-  4. Conducting data-driven design of environmental policies to minimize adverse health outcomes
+1. Estimation of the health impacts of environmental contaminant exposures and environmental policies
+2. Studying the impacts of extreme weather exposures and natural disasters on health and forecasting the health burdens of future extreme climate events
+3. Identifying communities most vulnerable to the health impacts of environmental and climate exposures and determining what features drive vulnerability
+4. Conducting data-driven design of environmental policies to minimize adverse health outcomes
 
 Methodologically, our work spans the domains of causal inference, machine learning, Bayesian methods, latent variable models, spatial statistics, time series analysis, and beyond. My CV is available [here]({{ site.url }}/assets/pdf/Nethery_CV.pdf).
 
-The Nethery Lab intersects and collaborates closely with the  <a href='https://hsph.harvard.edu/research/air-pollution-health/'>National Studies of Air Pollution and Health</a> team at HSPH.
+The Nethery Lab intersects and collaborates closely with the <a href='https://hsph.harvard.edu/research/air-pollution-health/'>National Studies of Air Pollution and Health</a> team at HSPH.
